@@ -4,7 +4,7 @@
   --ancho:60px;
   --alto:30px;
   --circulo:calc(var(--alto)*0.8);
-  --relleno:calc(var(--ancho)*0.02);
+  --relleno:calc(var(--ancho)*0.04);
   --borde:calc(var(--ancho)*0.01)
 }
 
